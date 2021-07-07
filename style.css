@@ -1,0 +1,81 @@
+body{
+    font-family: arial;
+    
+}
+.border{
+    color: black;
+    border: 2px solid;
+    background: orange;
+    text-align: center;
+    padding: 25px;
+     
+
+    
+}
+h1{
+    text-align: center;
+    border:5px solid black;
+    background: red;
+    color: #fff;
+    
+}
+
+
+.c1{
+    visibility: hidden;
+    padding: 25px;
+    
+
+}
+.c2{
+   
+   border: 2px solid;
+   padding: 25px;
+   
+    
+}
+.c3{
+    
+    border: 2px solid;
+    padding: 25px;
+    margin-left: 12%;
+    
+
+} 
+.c4{
+    
+    border: 2px solid;
+    padding: 25px;
+    margin-left: 10%;
+
+
+}
+.c5{
+    color: black;
+    border: 2px solid;
+    padding: 25px;
+    background: rgb(193, 238, 103);
+    text-align: center;
+    
+}
+.c6{
+    background: blueviolet;
+    
+   
+}
+.c7{
+    background: bisque;
+}
+.c8{
+    background: rgb(236, 111, 111);
+}
+.c9{
+    margin-left: 70%;
+}
+.c10{
+    background: beige;
+}
+
+
+    
+   
